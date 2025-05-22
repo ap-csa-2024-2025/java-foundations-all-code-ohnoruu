@@ -7,6 +7,7 @@ public class Input04 {
         //Edit these lines to advance the scanner
         sc.nextLine();
         System.out.println(sc.nextLine());
+        sc.nextLine();
 
         
         
