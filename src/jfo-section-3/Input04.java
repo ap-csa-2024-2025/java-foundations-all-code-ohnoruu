@@ -15,9 +15,11 @@ public class Input04 {
         System.out.println(sc.findInLine("BlueBumper"));
         //Store the next two numbers as xPosition and yPosition
         //Print these positions
+        int xPosition = sc.nextInt();
+        int yPosition = sc.nextInt();
         
         
-        System.out.println("X: "        +", Y: "        );
+        System.out.println("X: " + xPosition + ", Y: " + yPosition);
         sc.close();
     }    
 }
